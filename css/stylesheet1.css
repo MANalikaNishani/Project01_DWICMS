@@ -1,0 +1,132 @@
+
+		body {
+			background-color:#FFF ;
+			font-family: Times;
+					}
+		 
+		.container {
+			margin: 5% auto;
+			width: 80%;
+			background-color:rgba(128, 128, 128, 0.6);
+			padding: 30px;
+			border-radius: 4px;
+			box-shadow: 10px 10px 0px 0px rgba(0,0,0,0.2);
+		}
+
+    
+		.containerd {
+			margin: 5% auto;
+			width: 500px;
+			background-color:rgba(128, 128, 128, 0.6);
+			padding: 30px;
+			border-radius: 4px;
+			box-shadow: 10px 10px 0px 0px rgba(0,0,0,0.2);
+		}
+		
+      
+        label {
+            margin-bottom: 0px; /* add some space between each label */
+           
+               }
+        
+  input[type="text"],
+  select {
+    width: 100%;
+    padding: 12px 5px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+
+  input[type="txt"],
+  select {
+    width: 200%;
+    padding: 12px 5px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+
+  input[type="number"],
+  select {
+    width: 100%;
+    padding: 12px 5px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+
+  input[type="datetime-local"],
+  select {
+    width: 100%;
+    padding: 12px 5px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+
+  input[type="date"],
+  select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+
+  input[type="file"],
+  select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+
+  
+  select[type="text"],
+  select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+
+  input[type="url"],
+  select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  input[type="submit"] {
+    background-color: #41c71f;
+    border:2px solid #13b821;
+    color: rgb(255, 255, 255);
+    width:97px; height:37px;
+   
+  }  
+
+  textarea[type="text"]
+  select {
+    width: 42%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+		
+   
+	

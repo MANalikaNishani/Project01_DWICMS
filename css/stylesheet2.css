@@ -1,0 +1,19 @@
+table {
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th, tr {
+    text-align: left;
+    padding: 5px;
+    width: 10px;
+  }
+  
+  .button1 {width:97px; height:37px;
+color: rgb(113, 236, 113);}
+
+  
+ 
+
+  
